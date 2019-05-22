@@ -1,2 +1,3 @@
-# dh-1first-assignment-
-Assignment: Week 2 Day 2: Repositories 
+# Digitial Hummanities 
+Joseph M Perez
+(https://github.com/Joemperez85/dh-1first-assignment)
